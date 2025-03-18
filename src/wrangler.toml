@@ -1,0 +1,5 @@
+name = "image-generator"
+main = "src/index.ts"
+compatibility_date = "2025-03-19"
+[ai]
+binding = "AI"
